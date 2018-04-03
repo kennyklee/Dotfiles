@@ -6,6 +6,10 @@ Rather than setting up complicated/custom scripts, I've found Mackup that saves 
 
 The default save location is to Dropbox, but it can be [customized](https://github.com/lra/mackup/tree/master/doc#configuration) to save to a custom location.  The custom files that you create are also saved to the backup.
 
+**Main Folder:**
+
+`~/Dotfiles/`
+
 **Location of the backup files:**
 
 `~/Dotfiles/Mackup/`
@@ -48,7 +52,7 @@ mackup backup
 
 ### After ANY changes above:
 
-**Don't forget to `git push` the 'Dotfiles' folder!!!**
+**Don't forget to `git push` in the the 'Dotfiles' folder!!!**
 
 ## History of my Dotfiles
 
