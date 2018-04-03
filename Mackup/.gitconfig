@@ -3,3 +3,5 @@
 	email = kennyklee@gmail.com
 [credential]
 	helper = osxkeychain
+[core]
+	excludesfile = /Users/kenny/.gitignore_global
