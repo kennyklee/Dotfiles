@@ -86,6 +86,10 @@ source $ZSH/oh-my-zsh.sh
 # from Remy Sharp coursell
 alias perf='curl -w "@$HOME/curl-format.txt" -o /dev/null -s '
 
+# show/hide files
+alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app'
+alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app'
+
 alias editz='code ~/.zshrc' # Quick access to the ~/.zshrc file
 alias sourcez='source ~/.zshrc' # Quick access to the ~/.zshrc file
 alias ohmyzsh="code ~/.oh-my-zsh"
