@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SDASRimageFile</key>
+	<string></string>
+	<key>SDASRimageFileFormat</key>
+	<string>UDRO</string>
+	<key>SDRunOnMount</key>
+	<false/>
+	<key>SDScheduledJob</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUIFxhUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABpAkKDxBVJG51bGzSCwwNDlYkY2xhc3NfEBdjcm9uRW50cnlSZXByZXNl
+	bnRhdGlvboADgAJfEBozMAkyMQkqCSoJMSwyLDMsNCw1CShudWxsKdIREhMWWCRjbGFz
+	c2VzWiRjbGFzc25hbWWiFBVZU0RDcm9uSm9iWE5TT2JqZWN0WVNEQ3JvbkpvYhIAAYag
+	XxAPTlNLZXllZEFyY2hpdmVyCBEWHygyNTo8QUdMU21vcY6TnKeqtL3HzAAAAAAAAAEB
+	AAAAAAAAABkAAAAAAAAAAAAAAAAAAADe
+	</data>
+	<key>SDSessionSettingsVersion</key>
+	<integer>1</integer>
+	<key>SDbeforeCopyScript</key>
+	<string></string>
+	<key>SDcopyMode</key>
+	<integer>0</integer>
+	<key>SDcopyScript</key>
+	<string>/Users/kenny/Library/Application Support/SuperDuper!/Copy Scripts/Standard Scripts/Backup - all files.dset</string>
+	<key>SDinstallerPackage</key>
+	<string></string>
+	<key>SDshouldCopyACLs</key>
+	<true/>
+	<key>SDshouldCreateASRimage</key>
+	<false/>
+	<key>SDshouldInstallPackage</key>
+	<false/>
+	<key>SDshouldInvokeBeforeCopyScript</key>
+	<false/>
+	<key>SDshouldInvokeSiteCustomizationScript</key>
+	<false/>
+	<key>SDshouldRepairSourcePermissions</key>
+	<false/>
+	<key>SDshouldRunAtScheduledTime</key>
+	<false/>
+	<key>SDsiteCustomizationScript</key>
+	<string></string>
+	<key>SDsourceVolume</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUIJidUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABqQkKGRobHB0eH1UkbnVsbNcLDA0ODxAREhMUFRYXGFd1dWlkTG93VUFs
+	aWFzXEFic29sdXRlUGF0aFh1dWlkSGlnaFYkY2xhc3NUVHlwZVROYW1lgAaAB4AEgAWA
+	CIADgAJcTWFjaW50b3NoIEhEU2hmc18QFS9Wb2x1bWVzL01hY2ludG9zaCBIRBIjzQUX
+	Entp+h5PEQEqAAAAAAEqAAIAAQxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADVjxIY
+	SCsAAAAAAAEMTWFjaW50b3NoIEhEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtWPEhgAAAAAAAAAAP////8AAAkgAAAAAAAA
+	AAAAAAAAAAAADE1hY2ludG9zaCBIRAAQAAgAANWPdIgAAAARAAgAANWPdIgAAAABAAAA
+	AgAZTWFjaW50b3NoIEhEOk1hY2ludG9zaCBIRAAADgAaAAwATQBhAGMAaQBuAHQAbwBz
+	AGgAIABIAEQADwAaAAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAAABMAAS8A//8A
+	ANIgISIlWCRjbGFzc2VzWiRjbGFzc25hbWWiIyRaRGlza1ZvbHVtZVhOU09iamVjdFpE
+	aXNrVm9sdW1lEgABhqBfEA9OU0tleWVkQXJjaGl2ZXIACAARABYAHwAoADIANQA6ADwA
+	RgBMAFsAYwBpAHYAfwCGAIsAkACSAJQAlgCYAJoAnACeAKsArwDHAMwA0QH/AgQCDQIY
+	AhsCJgIvAjoCPwAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAJR
+	</data>
+	<key>SDsourceVolumeName</key>
+	<string>Macintosh HD</string>
+	<key>SDtargetVolume</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUIIiNUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLR
+	BgdUcm9vdIABpwkKFxgZGhtVJG51bGzWCwwNDg8QERITFBUWVFR5cGVYdXVpZEhpZ2hX
+	dXVpZExvd1YkY2xhc3NcQWJzb2x1dGVQYXRoVE5hbWWAAoAEgAWABoADgABTaGZzXxAQ
+	L1ZvbHVtZXMvTUFDQktVUBL1EJeYErhxnyzSHB0eIVgkY2xhc3Nlc1okY2xhc3NuYW1l
+	oh8gWkRpc2tWb2x1bWVYTlNPYmplY3RaRGlza1ZvbHVtZRIAAYagXxAPTlNLZXllZEFy
+	Y2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8AEQASgBXAFwAZQBtAHQAgQCGAIgAigCMAI4A
+	kACSAJYAqQCuALMAuADBAMwAzwDaAOMA7gDzAAAAAAAAAgEAAAAAAAAAJAAAAAAAAAAA
+	AAAAAAAAAQU=
+	</data>
+	<key>SDtargetVolumeIsUnmountable</key>
+	<true/>
+	<key>SDtargetVolumeName</key>
+	<string>MACBKUP</string>
+	<key>SDuponSuccessAction</key>
+	<integer>0</integer>
+</dict>
+</plist>

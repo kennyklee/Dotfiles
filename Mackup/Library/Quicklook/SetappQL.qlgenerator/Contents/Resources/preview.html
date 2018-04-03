@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #F3F3F3;
+      }
+
+      body {
+        font-size: 13px;
+        line-height: 1.72;
+        color: #4C4C4C;
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        overflow: hidden;
+        min-width: __placeholder_initialWidth;
+      }
+
+      header {
+        height: 108px;
+        padding: 21px 40px;
+        overflow: hidden;
+      }
+
+      .sidebar {
+        position: absolute;
+      }
+    
+      .setapp-logo {
+        margin-right: 21px;
+        padding-left: 3px;
+      }
+
+      .header-content {
+        padding-left: __placeholder_appNameXPosition;
+      }
+    
+      .header-left {
+        float: left;
+        font-size: 13px;
+        max-width: calc(100% - __placeholder_maxRightWidth);
+      }
+    
+      .header-right {
+        text-align: right;
+        font-size: 11px;
+        color: #717171;
+        padding-top: 4px;
+      }
+    
+      .app-name {
+        font-weight: 100;
+        font-size: 31px;
+        line-height: 1;
+        margin-top: __placeholder_appNameYPosition;
+        margin-bottom: 4px;
+        color: #222222;
+      }
+
+      .tagline {
+        line-height: 1.4;
+      }
+
+      main {
+        height: calc(100% - 108px);
+        overflow: auto;
+      }
+
+      .content {
+        overflow: hidden;
+        padding: 0px 40px;
+      }
+
+      .main-content {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      .screenshots {
+        display: inline-block;
+      }
+
+      .description {
+        margin: 17px 0 10px;
+        white-space: pre-line;
+        max-width: calc(__placeholder_initialWidth - 80px);
+      }
+
+      .gallery {
+        white-space: nowrap;
+        width: 100%;
+        overflow-x: scroll;
+        padding-left: 40px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="sidebar">
+        <img src="__placeholder_icon" alt="" width="__placeholder_iconWidth" height="__placeholder_iconHeight" class="setapp-logo">
+      </div>
+      <div class="header-content">
+          <div class="header-left">
+              <div class="app-name">__placeholder_applicationName</div>
+              <div class="tagline">__placeholder_tagLine</div>
+          </div>
+          <div class="header-right">
+              <div>__placeholder_creator</div>
+              <div>__placeholder_version</div>
+              <div>__placeholder_size</div>
+          </div>
+      </div>
+    </header>
+    <main>
+        <div class="gallery-wrapper">
+            <div class="gallery">
+                <div class="screenshots" style="__placeholder_screenshot_style_0">
+                    <img src="__placeholder_screenshot_0" alt="" width="__placeholder_screenshotWidth" height="__placeholder_screenshotHeight">
+                </div>
+                <div class="screenshots" style="__placeholder_screenshot_style_1">
+                    <img src="__placeholder_screenshot_1" alt="" width="__placeholder_screenshotWidth" height="__placeholder_screenshotHeight">
+                </div>
+                <div class="screenshots" style="__placeholder_screenshot_style_2">
+                    <img src="__placeholder_screenshot_2" alt="" width="__placeholder_screenshotWidth" height="__placeholder_screenshotHeight">
+                </div>
+                <div class="screenshots" style="__placeholder_screenshot_style_3">
+                    <img src="__placeholder_screenshot_3" alt="" width="__placeholder_screenshotWidth" height="__placeholder_screenshotHeight">
+                </div>
+                <div class="screenshots" style="__placeholder_screenshot_style_4">
+                    <img src="__placeholder_screenshot_4" alt="" width="__placeholder_screenshotWidth" height="__placeholder_screenshotHeight">
+                </div>
+            </div>
+        </div>
+      <div class="content">
+        <div class="main-content">
+            <div style="clear: both"></div>
+            <p class="description">__placeholder_description</p>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

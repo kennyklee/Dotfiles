@@ -1,0 +1,538 @@
+
+*** Volume state at transcript start 2017-08-24 15:15:51 -0700 ***
+
+(S) Volume: Macintosh HD, mount: /, device: /dev/disk1, media: Macintosh HD, interconnect: Internal PCI-Express, file system: "Journaled HFS+", OS: 10.12.6 (16G29), capacity: 999.23 GB, used: 61.36 GB, directories: 154310, files: 870772, ejectable: NO, ACLs: Enabled
+(T) Volume: MACBKUP, mount: /Volumes/MACBKUP, device: /dev/disk3s5, media: Untitled 5, interconnect: External USB, file system: "Journaled HFS+", OS: 10.10.4 (14E46), capacity: 995.26 GB, used: 308.66 GB, directories: 131180, files: 686938, ejectable: YES, ACLs: Enabled
+
+
+*** Volume state at transcript end 2017-08-24 15:33:27 -0700 ***
+
+(S) Volume: Macintosh HD, mount: /, device: /dev/disk1, media: Macintosh HD, interconnect: Internal PCI-Express, file system: "Journaled HFS+", OS: 10.12.6 (16G29), capacity: 999.23 GB, used: 61.35 GB, directories: 152028, files: 870996, ejectable: NO, ACLs: Enabled
+(T) Volume: MACBKUP, mount: /Volumes/MACBKUP, device: /dev/disk3s5, media: Untitled 5, interconnect: External USB, file system: "Journaled HFS+", OS: 10.12.6 (16G29), capacity: 995.26 GB, used: 57.28 GB, directories: 151268, files: 796403, ejectable: YES, ACLs: Enabled
+
+
+
+***System Profiler Output***
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro14,2
+      Processor Name: Intel Core i7
+      Processor Speed: 3.5 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 4 MB
+      Memory: 16 GB
+      Boot ROM Version: MBP142.0160.B02
+      SMC Version (system): 2.44f1
+      Serial Number (system): C02V51QFHV2R
+      Hardware UUID: 7917A8DE-2AD2-5F3D-8276-5B3F0413F65D
+
+USB:
+
+    USB 3.0 Bus:
+
+      Host Controller Driver: AppleUSBXHCISPTLP
+      PCI Device ID: 0x9d2f 
+      PCI Revision ID: 0x0021 
+      PCI Vendor ID: 0x8086 
+
+        USB2.0 Hub:
+
+          Product ID: 0x2813
+          Vendor ID: 0x2109  (VIA Labs, Inc.)
+          Version: 90.11
+          Speed: Up to 480 Mb/sec
+          Manufacturer: VIA Labs, Inc.
+          Location ID: 0x14300000 / 2
+          Current Available (mA): 500
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+
+            USB 2.0 Hub:
+
+              Product ID: 0x0101
+              Vendor ID: 0x1a40  (TERMINUS TECHNOLOGY INC.)
+              Version: 1.11
+              Speed: Up to 480 Mb/sec
+              Location ID: 0x14320000 / 3
+              Current Available (mA): 500
+              Current Required (mA): 100
+              Extra Operating Current (mA): 0
+
+                USB2.0 Hub             :
+
+                  Product ID: 0x2812
+                  Vendor ID: 0x2109  (VIA Labs, Inc.)
+                  Version: b.e0
+                  Speed: Up to 480 Mb/sec
+                  Manufacturer: VIA Labs, Inc.         
+                  Location ID: 0x14324000 / 4
+                  Current Available (mA): 500
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                    USB2.0 Hub             :
+
+                      Product ID: 0x2812
+                      Vendor ID: 0x2109  (VIA Labs, Inc.)
+                      Version: b.e0
+                      Speed: Up to 480 Mb/sec
+                      Manufacturer: VIA Labs, Inc.         
+                      Location ID: 0x14324400 / 6
+                      Current Available (mA): 500
+                      Current Required (mA): 0
+                      Extra Operating Current (mA): 0
+
+                        USB2.0 Hub             :
+
+                          Product ID: 0x2812
+                          Vendor ID: 0x2109  (VIA Labs, Inc.)
+                          Version: b.e0
+                          Speed: Up to 480 Mb/sec
+                          Manufacturer: VIA Labs, Inc.         
+                          Location ID: 0x14324440 / 11
+                          Current Available (mA): 500
+                          Current Required (mA): 0
+                          Extra Operating Current (mA): 0
+
+                            Advantage2 Keyboard:
+
+                              Product ID: 0x0102
+                              Vendor ID: 0x29ea
+                              Version: 1.00
+                              Serial Number: 314159265359
+                              Speed: Up to 12 Mb/sec
+                              Manufacturer: Kinesis
+                              Location ID: 0x14324443 / 12
+                              Current Available (mA): 500
+                              Current Required (mA): 100
+                              Extra Operating Current (mA): 0
+
+                            Yeti Stereo Microphone:
+
+                              Product ID: 0x9e84
+                              Vendor ID: 0xb58e
+                              Version: 1.00
+                              Serial Number: REV8
+                              Speed: Up to 12 Mb/sec
+                              Manufacturer: Blue Microphones
+                              Location ID: 0x14324442 / 13
+                              Current Available (mA): 500
+                              Current Required (mA): 100
+                              Extra Operating Current (mA): 0
+
+                        MFC-J4710DW:
+
+                          Product ID: 0x02b4
+                          Vendor ID: 0x04f9  (Brother International Corporation)
+                          Version: 1.00
+                          Serial Number: BROM3F398396
+                          Speed: Up to 480 Mb/sec
+                          Manufacturer: Brother
+                          Location ID: 0x14324420 / 10
+                          Current Available (mA): 500
+                          Current Required (mA): 2
+                          Extra Operating Current (mA): 0
+                          1284 Device ID: MFG:Brother;CMD:HBP,BRPJL,URF;MDL:MFC-J4710DW;CLS:PRINTER;CID:Brother IJ Type3;URF:SRGB24,W8,CP1,IS1-13,MT1-8-11,OB9,PQ4-5,RS300,OFU0,DM4;
+
+                        Plantronics Savi 7xx:
+
+                          Product ID: 0xac01
+                          Vendor ID: 0x047f  (Plantronics, Inc.)
+                          Version: 1.65
+                          Speed: Up to 12 Mb/sec
+                          Manufacturer: Plantronics
+                          Location ID: 0x14324410 / 9
+                          Current Available (mA): 500
+                          Current Required (mA): 0
+                          Extra Operating Current (mA): 0
+
+                    HD Pro Webcam C920:
+
+                      Product ID: 0x082d
+                      Vendor ID: 0x046d  (Logitech Inc.)
+                      Version: 0.11
+                      Serial Number: 02BFA9EF
+                      Speed: Up to 480 Mb/sec
+                      Location ID: 0x14324300 / 7
+                      Current Available (mA): 500
+                      Current Required (mA): 500
+                      Extra Operating Current (mA): 0
+
+                    Kensington Slimblade Trackball:
+
+                      Product ID: 0x2041
+                      Vendor ID: 0x047d  (Kensington)
+                      Version: 1.09
+                      Speed: Up to 1.5 Mb/sec
+                      Manufacturer: Kensington
+                      Location ID: 0x14324200 / 5
+                      Current Available (mA): 500
+                      Current Required (mA): 100
+                      Extra Operating Current (mA): 0
+
+                    Fitbit Base Station:
+
+                      Product ID: 0xfb01
+                      Vendor ID: 0x2687
+                      Version: 1.00
+                      Speed: Up to 12 Mb/sec
+                      Manufacturer: Fitbit Inc.
+                      Location ID: 0x14324100 / 8
+                      Current Available (mA): 500
+                      Current Required (mA): 50
+                      Extra Operating Current (mA): 0
+
+        iBridge:
+
+          Product ID: 0x8600
+          Vendor ID: 0x05ac  (Apple Inc.)
+          Version: 1.01
+          Speed: Up to 480 Mb/sec
+          Manufacturer: Apple Inc.
+          Location ID: 0x14100000 / 1
+          Current Available (mA): 500
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+          Built-In: Yes
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleUSBXHCIAR
+      PCI Device ID: 0x15d4 
+      PCI Revision ID: 0x0002 
+      PCI Vendor ID: 0x8086 
+      Bus Number: 0x00 
+
+        USB3.0 Hub:
+
+          Product ID: 0x0813
+          Vendor ID: 0x2109  (VIA Labs, Inc.)
+          Version: 90.11
+          Speed: Up to 5 Gb/sec
+          Manufacturer: VIA Labs, Inc.
+          Location ID: 0x00100000 / 1
+          Current Available (mA): 900
+          Current Required (mA): 0
+          Extra Operating Current (mA): 0
+
+            USB3.0 Hub             :
+
+              Product ID: 0x0812
+              Vendor ID: 0x2109  (VIA Labs, Inc.)
+              Version: b.e1
+              Speed: Up to 5 Gb/sec
+              Manufacturer: VIA Labs, Inc.         
+              Location ID: 0x00120000 / 2
+              Current Available (mA): 900
+              Current Required (mA): 0
+              Extra Operating Current (mA): 0
+
+                USB3.0 Hub             :
+
+                  Product ID: 0x0812
+                  Vendor ID: 0x2109  (VIA Labs, Inc.)
+                  Version: b.e1
+                  Speed: Up to 5 Gb/sec
+                  Manufacturer: VIA Labs, Inc.         
+                  Location ID: 0x00124000 / 4
+                  Current Available (mA): 900
+                  Current Required (mA): 0
+                  Extra Operating Current (mA): 0
+
+                    USB3.0 Hub             :
+
+                      Product ID: 0x0812
+                      Vendor ID: 0x2109  (VIA Labs, Inc.)
+                      Version: b.e5
+                      Speed: Up to 5 Gb/sec
+                      Manufacturer: VIA Labs, Inc.         
+                      Location ID: 0x00124400 / 5
+                      Current Available (mA): 900
+                      Current Required (mA): 0
+                      Extra Operating Current (mA): 0
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleUSBXHCIAR
+      PCI Device ID: 0x15d4 
+      PCI Revision ID: 0x0002 
+      PCI Vendor ID: 0x8086 
+      Bus Number: 0x01 
+
+        JMS56x Series:
+
+          Product ID: 0x9561
+          Vendor ID: 0x152d  (JMicron Technology Corp.)
+          Version: 1.05
+          Serial Number: 00000000000000000000
+          Speed: Up to 5 Gb/sec
+          Manufacturer: JMicron
+          Location ID: 0x01200000 / 1
+          Current Available (mA): 900
+          Current Required (mA): 8
+          Extra Operating Current (mA): 0
+          Media:
+            01FALS-00J7B1:
+              Capacity: 1 TB (1,000,204,886,016 bytes)
+              Removable Media: No
+              BSD Name: disk3
+              Logical Unit: 0
+              Partition Map Type: MBR (Master Boot Record)
+              USB Interface: 0
+              Volumes:
+                disk3s1:
+                  Capacity: 2.55 GB (2,550,005,760 bytes)
+                  BSD Name: disk3s1
+                  Content: Linux_RAID
+                disk3s2:
+                  Capacity: 2.15 GB (2,147,483,648 bytes)
+                  BSD Name: disk3s2
+                  Content: Linux_RAID
+                MACBKUP:
+                  Capacity: 995.26 GB (995,258,859,520 bytes)
+                  Available: 937.97 GB (937,973,981,184 bytes)
+                  Writable: Yes
+                  File System: Journaled HFS+
+                  BSD Name: disk3s5
+                  Mount Point: /Volumes/MACBKUP
+                  Content: Apple_HFS
+                  Volume UUID: 1FE7B549-C50A-3783-9AAE-9127F2B2A3C3
+            01FALS-00J7B1:
+              Capacity: 1 TB (1,000,204,886,016 bytes)
+              Removable Media: No
+              BSD Name: disk2
+              Logical Unit: 1
+              Partition Map Type: MBR (Master Boot Record)
+              USB Interface: 0
+              Volumes:
+                disk2s1:
+                  Capacity: 1 TB (1,000,203,091,968 bytes)
+                  BSD Name: disk2s1
+                  Content: Linux
+
+Volumes:
+
+    net:
+
+      Type: autofs
+      Mount Point: /net
+      Mounted From: map -hosts
+      Automounted: Yes
+
+    home:
+
+      Type: autofs
+      Mount Point: /home
+      Mounted From: map auto_home
+      Automounted: Yes
+
+
+
+*** Last 200 lines of System Log (/private/var/log/system.log) ****
+
+			</request>
+		headers={
+			"X-GoogleUpdate-Interactivity" = bg;
+		}
+	>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.624 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864"
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.630 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/kenny/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 14831
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.631 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864"
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.651 ksfetch[14831/0x7fffeba183c0] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1999 bytes from stdin.
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.653 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100202390> { URL: https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864 }
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.653 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.SFvGSOooPr/download
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.654 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x100202390> { URL: https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864 }) to folder:/tmp/KSOutOfProcessFetcher.SFvGSOooPr/download
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.654 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() Setting up download file handles...
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.792 ksfetch[14831/0x7fffeba183c0] [lvl=2] -[FetchDelegate fetcher:finishedWithData:] Fetcher downloaded successfully data of length: 0
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.792 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() ksfetch done fetching.
+Aug 24 15:22:20 Kennys-MacBook-Pro ksfetch[14831]: 2017-08-24 15:22:20.797 ksfetch[14831/0x7fffeba183c0] [lvl=2] main() Fetcher is exiting.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.799 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.800 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864"
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.801 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) serverRequest:fetchedWithResponse:] KSUpdateCheckAction received KSServerUpdateResponse: <KSOmahaServerUpdateResponse:0x100355990
+		server=<KSOmahaServer:0x100400560>
+		url="https://tools.google.com/service/update2?cup2hreq=62e23a23f8f935a33591306cfde3ee8aee0ef0c15f2bf6c914edbfbfe171e407&cup2key=7:2167573864"
+		tickets=1
+		status=200
+		data=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<response protocol="3.0" server="prod">
+			    <daystart elapsed_days="3888" elapsed_seconds="55340"></daystart>
+			    <app appid="com.google.Keystone" cohort="" cohortname="" status="ok">
+			        <ping status="ok"></ping>
+			        <updatecheck status="noupdate"></updatecheck>
+			    </app>
+			</response>
+	>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.803 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.811 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.812 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.813 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.813 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.813 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.813 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.814 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(PrivateMethods) updateProductWithProductID:andSettings:usingEngine:] Done checking for updates for '"com.google.Keystone"' using engine <KSUpdateEngine:0x10052b450
+		ticketStore=<KSPersistentTicketStore:0x100527d80 store=<KSKeyedPersistentStore:0x10051ba30
+			path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x100528d30
+				path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				locked=NO
+			>
+		>>
+		processor=<KSActionProcessor:0x10043fff0
+			delegate=<KSUpdateEngine:0x10052b450>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSAgentApp: 0x100339dd0>
+		serverInfoStore=<KSServerPrivateInfoStore:0x10052aff0 path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.814 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(PrivateMethods) performSelfUpdateWithEngine:] Finished self update check.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.814 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithSettings:] About to run checks for any other apps.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.815 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(PrivateMethods) updateProductWithProductID:andSettings:usingEngine:] Checking for updates for "All Products" using engine <KSUpdateEngine:0x10052b450
+		ticketStore=<KSPersistentTicketStore:0x100527d80 store=<KSKeyedPersistentStore:0x10051ba30
+			path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x100528d30
+				path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				locked=NO
+			>
+		>>
+		processor=<KSActionProcessor:0x10043fff0
+			delegate=<KSUpdateEngine:0x10052b450>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=(null)
+		serverInfoStore=<KSServerPrivateInfoStore:0x10052aff0 path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.815 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.833 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSCheckAction performAction] KSCheckAction checking 1 ticket(s).
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.838 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {(
+		<KSTicket:0x10034f940
+			productID=com.google.Chrome
+			version=60.0.3112.101
+			xc=<KSPathExistenceChecker:0x100553350 path=/Applications/Google Chrome.app>
+			serverType=Omaha
+			url=https://tools.google.com/service/update2
+			creationDate=2017-08-22 21:03:13
+			tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+			tagKey=KSChannelID
+			brandPath=/Users/kenny/Library/Google/Google Chrome Brand.plist
+			brandKey=KSBrandID
+			versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+			versionKey=KSVersion
+			cohort=1:1y5:
+			cohortName=Stable
+			ticketVersion=1
+		>
+	)}
+	Using server: <KSOmahaServer:0x1005531e0
+		engine=<KSUpdateEngine:0x10052b450>
+	>
+Aug 24 15:22:20 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:20.870 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Applications/Google Chrome.app' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Chrome")'
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.748 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction running KSServerUpdateRequest: <KSOmahaServerUpdateRequest:0x100440a40
+		server=<KSOmahaServer:0x1005531e0>
+		url="https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082"
+		fallbackURLs=(
+			http://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:4091576662
+		)
+		runningFetchers=0
+		tickets=1
+		body=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<request protocol="3.0" version="KeystoneAgent-1.2.8.82" ismachine="0" requestid="{7EF3C70C-A276-44E7-AA45-E19669D2275C}" dedup="cr" sessionid="{2EF1127A-8A8F-41AE-B0F2-CF72D00684E4}">
+			    <os platform="mac" version="10.12" arch="x86_64h" sp="10.12.6_x86_64h"></os>
+			    <app appid="com.google.Chrome" version="60.0.3112.101" cohort="1:1y5:" cohortname="Stable" lang="en-us" installage="2" installdate="3885" brand="GGRO" _numaccounts="3" _numsignedin="2" signed="1">
+			        <ping rd="3888" ad="3888" ping_freshness="{5FA1E134-9DEF-4E2F-B42D-3ED1F1B67F4B}"></ping>
+			        <updatecheck></updatecheck>
+			    </app>
+			</request>
+		headers={
+			"X-GoogleUpdate-Interactivity" = bg;
+		}
+	>
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.748 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082"
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.749 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/kenny/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 14832
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.750 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: "https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082"
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.779 ksfetch[14832/0x7fffeba183c0] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 2070 bytes from stdin.
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.781 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x10010a260> { URL: https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082 }
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.781 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() Fetcher received a download path: /tmp/KSOutOfProcessFetcher.wgiKhhuY1s/download
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.781 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x10010a260> { URL: https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082 }) to folder:/tmp/KSOutOfProcessFetcher.wgiKhhuY1s/download
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.782 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() Setting up download file handles...
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.923 ksfetch[14832/0x7fffeba183c0] [lvl=2] -[FetchDelegate fetcher:finishedWithData:] Fetcher downloaded successfully data of length: 0
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.923 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() ksfetch done fetching.
+Aug 24 15:22:21 Kennys-MacBook-Pro ksfetch[14832]: 2017-08-24 15:22:21.926 ksfetch[14832/0x7fffeba183c0] [lvl=2] main() Fetcher is exiting.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.927 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperErrorAvailable:] KSOutOfProcessFetcher helper tool raw STDERR:
+	:	<>
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.928 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: "https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082"
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.933 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction(KSServerUpdateRequestDelegate) serverRequest:fetchedWithResponse:] KSUpdateCheckAction received KSServerUpdateResponse: <KSOmahaServerUpdateResponse:0x100562d60
+		server=<KSOmahaServer:0x1005531e0>
+		url="https://tools.google.com/service/update2?cup2hreq=09c8d6abee2b592751c2aa739538918ec7f8970dcfa1942e441fb1ac52205c65&cup2key=7:88961082"
+		tickets=1
+		status=200
+		data=
+			<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+			<response protocol="3.0" server="prod">
+			    <daystart elapsed_days="3888" elapsed_seconds="55341"></daystart>
+			    <app appid="com.google.Chrome" cohort="1:1y5:kyx@0.05" cohortname="Stable" status="ok">
+			        <ping status="ok"></ping>
+			        <updatecheck status="noupdate"></updatecheck>
+			    </app>
+			</response>
+	>
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.935 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.939 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateCheckAction(PrivateMethods) finishAction] KSUpdateCheckAction found updates: {( )}
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.940 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.940 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSMultiUpdateAction performAction] KSSilentUpdateAction had no updates to apply.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.941 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.941 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.941 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+Aug 24 15:22:21 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:21.941 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(PrivateMethods) updateProductWithProductID:andSettings:usingEngine:] Done checking for updates for '"All Products"' using engine <KSUpdateEngine:0x10052b450
+		ticketStore=<KSPersistentTicketStore:0x100527d80 store=<KSKeyedPersistentStore:0x10051ba30
+			path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"
+			lockFile=<KSLockFile:0x100528d30
+				path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"
+				locked=NO
+			>
+		>>
+		processor=<KSActionProcessor:0x1002e5f40
+			delegate=<KSUpdateEngine:0x10052b450>
+			isProcessing=NO actionsCompleted=0 progress=0.00
+			errors=0 currentActionErrors=0
+			events=0 currentActionEvents=0
+			actionQueue=( )
+		>
+		delegate=<KSAgentApp: 0x100339dd0>
+		serverInfoStore=<KSServerPrivateInfoStore:0x10052aff0 path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/Servers">
+		errors=0
+	>
+Aug 24 15:22:22 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:22.067 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentUploader fetcher:finishedWithData:] Successfully uploaded stats to <NSMutableURLRequest: 0x100358210> { URL: https://tools.google.com/service/update2 }
+Aug 24 15:22:22 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:22.067 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(PrivateMethods) uploadStats:usingSettings:] Successfully uploaded stats <KSStatsCollection:0x10033b450 path="/Users/kenny/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=5, stats={
+	    checks = 2;
+	    tickets = 1;
+	    usertickets = 2;
+	    validtickets = 1;
+	    validusertickets = 2;
+	}>
+Aug 24 15:22:23 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:23.238 GoogleSoftwareUpdateAgent[14830/0x70000d4a2000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithSettings:] Finished with engine thread
+Aug 24 15:22:23 Kennys-MacBook-Pro GoogleSoftwareUpdateAgent[14830]: 2017-08-24 15:22:23.486 GoogleSoftwareUpdateAgent[14830/0x7fffeba183c0] [lvl=2] -[KSAgentApp(PrivateMethods) checkForUpdatesUsingSettings:] Finished update check.
+Aug 24 15:23:10 Kennys-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.ReportCrash[14836]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.ReportCrash
+Aug 24 15:26:21 Kennys-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.quicklook[14842]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Aug 24 15:30:33 Kennys-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.quicklook[14848]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Aug 24 15:30:36 Kennys-MacBook-Pro cloudd[409]: notify name "com.apple.cloudkit.pcs.flushCaches" has been registered 40 times - this may be a leak
+Aug 24 15:31:06 --- last message repeated 4 times ---
+Aug 24 15:31:23 Kennys-MacBook-Pro UserEventAgent[35]: assertion failed: 16G29: com.apple.telemetry + 58408 [165E935B-9099-32D4-945F-270EC2E89A29]: 0x5
+Aug 24 15:32:16 Kennys-MacBook-Pro syslogd[34]: ASL Sender Statistics
+Aug 24 15:33:28 Kennys-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.CoreRAID[14872]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.CoreRAID

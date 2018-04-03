@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Email</key>
+	<string>hi@kkl.io</string>
+	<key>Name</key>
+	<string>Kenny Lee</string>
+	<key>Product Id</key>
+	<string>Hazel4.0</string>
+	<key>Seats</key>
+	<string>1</string>
+	<key>Signature</key>
+	<data>
+	f9VjrM2B4IK6mkwFUcOjUASyizZnTQ738Mx9LDwA5bkvsRLfjSR4rGQHWYWiLxMUaWYy
+	X+M1C5jDV4Vx6pdiu4YAN+BL3CyX20bVB4ViVTymFqHdDUOq1y10ClcUqBV9m8iLvfI/
+	xbf5pIHK2TXeFD9TFRrSPeHD2fomI1FSidg=
+	</data>
+	<key>Transaction Id</key>
+	<string>7KL8PB9PNDHF</string>
+</dict>
+</plist>

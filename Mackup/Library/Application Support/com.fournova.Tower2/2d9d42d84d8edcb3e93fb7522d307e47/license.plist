@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>product</key>
+    <string>tower2-mac</string>
+    <key>name</key>
+    <string>Kenny Lee</string>
+    <key>masked</key>
+    <string>TO2M-****-****-YAVO-POMA</string>
+    <key>license</key>
+    <string>09d521d89605a6b258181ca92ec78319</string>
+    <key>expires</key>
+    <string>never</string>
+    <key>machine</key>
+    <string>2d9d42d84d8edcb3e93fb7522d307e47</string>
+    <key>type</key>
+    <string>SINGLE</string>
+</dict>
+</plist>
